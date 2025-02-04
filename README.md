@@ -1,3 +1,3 @@
-# 🐟Peixinho no JavaScript
+# 🐟 Peixinho no JavaScript
 
-O meu primeiro projeto individual no inteli
+ O meu primeiro projeto individual no inteli
